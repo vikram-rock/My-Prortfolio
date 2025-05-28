@@ -2,7 +2,7 @@
   {
     "name": "Rubik's Cube",
     "desc": "This is a simple Rubik's Cube game built using HTML, CSS and JavaScript. It allows you to play with the cube.",
-    "image": "3D CUBE",
+    "image": "rubikcube",
     "category": "basicweb",
     "links": {
       "view": "https://vikram-rock.github.io/Cube-game/",
